@@ -1,0 +1,10 @@
+@media only screen and (max-width: 768px) {
+    #coursefeerow{
+      margin-bottom: 5vh; 
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    #fee{
+      position: relative; bottom: 3.9vh; left: 50vw;
+    }
+}
